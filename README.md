@@ -18,4 +18,5 @@ Built and optimized an ordinal logistic regression model to predict salary range
 - hyperparam tuning
 
 ### Testing 
-evaluate performance on test data
+- evaluate performance on test data
+- visualization of true v.s. prediction
